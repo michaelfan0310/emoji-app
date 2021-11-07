@@ -26,6 +26,7 @@ h1 span {
   justify-content: space-between;
   margin: 4rem auto;
   max-width: 90%;
+  float: left;
 }
 
 .dictionary > .term {
