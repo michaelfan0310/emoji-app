@@ -6,7 +6,7 @@ function createEntry(item){
   return (
     <Entry emoji = {item.emoji}
            name = {item.name}
-           meaning= {item.meaning}   
+           meaning= {item.meaning.substring(0,200)+"..."}   
     
     />    
   );
