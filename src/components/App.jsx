@@ -16,7 +16,7 @@ function App() {
   return (
     <div>
     <h1>
-    <span>emojipedia</span>
+    <span className="bannertop">emojipedia</span>
   </h1>
  { emojipedia.map(createEntry) }
   </div>

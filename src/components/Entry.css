@@ -18,6 +18,11 @@ h1 {
 h1 span {
   padding: 5px 15px;
   background: #2ec2b0;
+  
+}
+
+.bannertop{
+  box-shadow:  5px 0 rgba(0, 0, 0, 0.116), 0 5px 20px rgba(0, 0, 0, 0.356);
 }
 
 .dictionary {
@@ -25,7 +30,7 @@ h1 span {
   flex-wrap: wrap;
   justify-content: space-between;
   margin: 3% 5%;
-  max-width: 90%;
+  max-width: 95%;
   
   float: left;
 }
@@ -36,7 +41,7 @@ h1 span {
   margin-bottom: 3rem;
   padding: 2rem;
   border-radius: 3px;
-  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.05), 0 5px 20px rgba(0, 0, 0, 0.1);
+  box-shadow: 2px 3px 0 rgba(0, 0, 0, 0.178), 0 5px 20px rgba(0, 0, 0, 0.432);
   background-color: #fff;
   transition: all 100ms ease-in-out;
 }
