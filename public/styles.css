@@ -45,6 +45,10 @@ h1 span {
 }
 
 dt {
+    line-height: 1;
+}
+
+.lable {
   color: #2ec2b0;
   line-height: 1;
 }
@@ -55,6 +59,7 @@ dt span {
 }
 
 .emoji {
+  color:rgba(223, 16, 50, 0.863); 
   margin: 0 auto 20px;
   display: block;
   font-size: 400%;

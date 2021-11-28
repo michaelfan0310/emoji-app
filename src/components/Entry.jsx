@@ -10,7 +10,7 @@ function Entry(props) {
             <span className="emoji" role="img" aria-label="Tense Biceps">
               {props.emoji}
             </span>
-            <span>{props.name}</span>
+            <span className="lable">{props.name}</span>
           </dt>
           <dd>{props.meaning}</dd>
         </div>
