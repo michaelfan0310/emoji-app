@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/emoji-app/static/css/main.926a7c2d.chunk.css",
-    "main.js": "/emoji-app/static/js/main.bbf4c0b1.chunk.js",
-    "main.js.map": "/emoji-app/static/js/main.bbf4c0b1.chunk.js.map",
+    "main.css": "/emoji-app/static/css/main.90b668c5.chunk.css",
+    "main.js": "/emoji-app/static/js/main.a4f404b2.chunk.js",
+    "main.js.map": "/emoji-app/static/js/main.a4f404b2.chunk.js.map",
     "runtime-main.js": "/emoji-app/static/js/runtime-main.4c17f4f8.js",
     "runtime-main.js.map": "/emoji-app/static/js/runtime-main.4c17f4f8.js.map",
     "static/js/2.1c204a2f.chunk.js": "/emoji-app/static/js/2.1c204a2f.chunk.js",
     "static/js/2.1c204a2f.chunk.js.map": "/emoji-app/static/js/2.1c204a2f.chunk.js.map",
     "index.html": "/emoji-app/index.html",
-    "static/css/main.926a7c2d.chunk.css.map": "/emoji-app/static/css/main.926a7c2d.chunk.css.map",
+    "static/css/main.90b668c5.chunk.css.map": "/emoji-app/static/css/main.90b668c5.chunk.css.map",
     "static/js/2.1c204a2f.chunk.js.LICENSE.txt": "/emoji-app/static/js/2.1c204a2f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4c17f4f8.js",
     "static/js/2.1c204a2f.chunk.js",
-    "static/css/main.926a7c2d.chunk.css",
-    "static/js/main.bbf4c0b1.chunk.js"
+    "static/css/main.90b668c5.chunk.css",
+    "static/js/main.a4f404b2.chunk.js"
   ]
 }
